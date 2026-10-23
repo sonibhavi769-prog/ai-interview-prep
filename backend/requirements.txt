@@ -1,0 +1,8 @@
+Flask==3.1.1
+flask-cors==5.0.1
+pymongo==4.12.1
+bcrypt==4.3.0
+PyJWT==2.10.1
+python-dotenv==1.1.0
+openai==1.82.0
+httpx==0.28.1
